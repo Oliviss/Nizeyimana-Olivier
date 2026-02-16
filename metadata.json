@@ -1,0 +1,7 @@
+{
+  "name": "ihahiro",
+  "description": "A comprehensive e-commerce platform featuring a modern storefront, AI-powered product enhancements, and a full-featured admin dashboard for inventory and sales management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
